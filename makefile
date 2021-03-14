@@ -1,4 +1,4 @@
-all: a.out
+all: clean a.out test
 
 a.out:
 	g++ -std=c++11 main.cpp
