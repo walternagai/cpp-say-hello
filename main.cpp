@@ -2,9 +2,8 @@
 using namespace std;
 
 int main() {
+  /* Atualize a mensagem a ser exibida na linha abaixo */
   cout << "Hello World!\n";
-  
-  /* Insira seu código na linha abaixo */
   
   return 0;
 }
