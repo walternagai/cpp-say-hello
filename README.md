@@ -1,4 +1,4 @@
-# cpp-say-hello-private
+# cpp-say-hello
 
 Este é o primeiro programa em linguagem C/C++ que imprime uma mensagem quando o programa é executado.
 
