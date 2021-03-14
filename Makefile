@@ -1,7 +1,7 @@
 all: test clean
 
 a.out:
-	@g++ -std=c++11 main.cpp
+	@g++ -std=c++17 main.cpp
 
 test: a.out
 	@./a.out
